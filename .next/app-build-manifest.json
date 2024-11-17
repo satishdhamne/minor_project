@@ -1,0 +1,42 @@
+{
+  "pages": {
+    "/(landing)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-node_modules_next_font_google_target_css-_9328.css",
+      "static/chunks/app/(landing)/page.js"
+    ],
+    "/(landing)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(landing)/layout.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-app_globals_css-node_modules_next_font_google_target_css.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/(dashboard)/(routes)/dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dashboard)/(routes)/dashboard/page.js"
+    ],
+    "/(dashboard)/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/css-node_modules_next_font_google_target_css-_f012.css",
+      "static/chunks/app/(dashboard)/layout.js"
+    ],
+    "/(dashboard)/(routes)/image/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dashboard)/(routes)/image/page.js"
+    ],
+    "/(dashboard)/(routes)/music/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/(dashboard)/(routes)/music/page.js"
+    ]
+  }
+}
